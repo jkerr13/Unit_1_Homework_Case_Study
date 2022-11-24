@@ -3,7 +3,8 @@
 University of Toronto FinTech Bootcamp  
 FinTech Case Study  
 Challenge Assignment Week One  
-By: Jenn Kerr
+By: Jenn Kerr  
+<font size = 1>Please Note: Landlords = Landlords, Property Managers and Property Management Companies within this review </font>
 
 --------------------------------------
 <br><br>
@@ -19,10 +20,12 @@ RentMoola was founded on April 2nd, 2013 by twins Philipp and Patrick Postrehovs
 Letus, powered by RentMoola was formed around 2018 - 2019.  Details and the solutions each provide are difficult to determine, as many social media and publication links are broken on the RentMoola site.  Looking up Communications on the Letus site simply takes you back to the RentMoola site, so there is some broken information.  Although many sites says Letus (formerly RentMoola), their Social Media sites say either "Letus by RentMoola" or "Letus".
 
 When RentMoola started, they were funded by bootstrap sources.  As they grew, they went out to source new funding.  According to crunchbase, the company has raised $10M through two venture rounds.  The first in 2016 where they raised $5M with the lead investor being Conservice.  The second was in 2017 where they raised an additional $5M with the lead investor being TriView Capital.
+
+They were also sucessful in a Preferred Share offering in 2019 and generated $3.5M with lead investments from the lead principals of Ayrshire Real Estate Management Inc. (Ayrshire)
 <br><br>
 ## Business Activities
 
-RentMoola started with the simple financial problem of paying rent.  Paying rent is a very traditional environment with most Landlords and Property Managers only allowing Cash or Checks.  RentMoola's mission is to change this environment and make it easy and beneficial to pay rent through other avenues such as Credit Card, PayPal, UnionPay, etc.  
+RentMoola started with the simple financial problem of paying rent.  Paying rent is a very traditional environment with most Landlords and Property Managers only allowing Cash or Checks.  RentMoola's mission is to change this environment and make it easy and beneficial to pay rent through other avenues such as Bank Account, Credit Card, PayPal, UnionPay, etc.  
 
 Now Letus, their primary customer are Renters, Landlords and Property Management Companies.  In 2019, the market in Canada represented about 4.5 Million Families paying over $54 Billion in rent anually.
 
@@ -35,7 +38,7 @@ A couple primary competitors are:
 *ClickPay*  
 ![](ClickPay.png)  
 
-Letus uses many programs and technologies including HTML5, jQuery, Google Analytics, LetsEncrypt, Domain Not Resolving and Amazon Web Services....  
+Letus uses many programs and technologies including JSF2, Java EE, CSS 3, Javascript, Hibernate / JPA, GIT, Rest Web Services, Angular JS, MySQL, PostgreSQL, Spring Boot, React, MongoDB, Python, Jira, Confluence, Bitbucket, HTML5, jQuery, Wild y, Google Analytics, LetsEncrypt, Domain Not Resolving, Amazon Web Services, docker and serverless systems.
 <br><br>
 ## Landscape
 
@@ -101,59 +104,54 @@ As RentMoola and the Letus evolved, they offered many other options to help alte
         * Utilities - Landlords can include Utility Fees in the program
         * Security Deposit
 
+Letus's success can be seen in the many partnerships that they have created and continue to create.  These partnerships include:
+* Property Management Associations:
+    * National Apartment Association
+    * Canadian Federation of Apartment Association
+    * frpo
+    * Greater Toronto Apartment Association
+    * Eastern Ontario Landlord Organization
+* Payment Partners
+    * MasterCard
+    * VISA
+    * American Express
+    * Discover
+    * BMO
+    * PayNearMe
+    * Payment Source
+    * UnionPay International
+* Industry Partners
+    * Yardi
+    * ResMan
+    * mri
+    * wyse
+    * Conservice
+    * Rezedent
+    * TrustStamp
 
-
+As Letus is a private company, further financial statment analysis is not publically available.  Comparisons again thier competitors are also difficult as they really stand on their own by offering the entire package to both Landlords and Tenants.
 
 <br><br>
 ## Recomendations
 
+As Letus continues to evolve, they should continue to specialize in what they do best.  Some new partners that they should explore as technologies evolve are:
+* Pay by voice
+* Offering thier own virtual card
+* More communication avenues between Landlord and Tenant such as a Texting Service for notifications
+
+Their current communication between Landlords and Tenants is simply a Landlord uploading a document which both parties can see.  By expending this communication avenue to things such as emails and text messages, it would eliminate even more pain points.  This communication could include:
+* Access Notifications
+* Maintenance Requests
+* Move Requests
+* Ending Tenancy Requests
+* and more...
+
+The Landlord / Tenant relationship is a very complicated and challengine one.  By expanding thier capabilities, they can make this simpler and a better experience for all.
 
 
-
-
-
-
-
-Propertii / certn (Background and Credit Checks)
-
-
+---------
 About Letus:
 Letus is the first fintech company to combine financial services and rental payments in one platform. Letus is disrupting the rental industry by empowering tenants and property managers or landlords to take control of their ﬁnances through a simple, integrated and secure solution that is powered by a diverse ecosystem of global partners.
-
-
-Empowering property managers
-
-
-Solutions they offer: Digital Payments, Background and Credit Checks, Line of Credits for Emergencies and Insurance Protection, Tenant Communications
-
-
-Looking to solve:
-~ the need for the digitalization of Rent payments
-~ allowing renters to pay how they want - ie: Credit Card Payments, paypal, UnionPay
-~ as the cost of living increases and bills get harder to pay, there is a rising need for non-predatory credit lines... Liquidity
-
-What do they offer:
-Risk Management for Landlords / Property Managers
-    ~ Say goodby to late or missed payments
-    ~ Identify Ideal Tenants
-    ~ Increased Efficiency with consolidated reports
-    ~ Increase Revenue Stream
-
-Financial Control for Tenants
-    ~ Flexible Payment Solutions
-    ~ Customer Friendy Credit Solutions
-    ~ Tools to Improve Credit Scores
-    ~ Financial Marketplace for all thier needs
-        ~ Insurance
-        ~ Utilities
-        ~ Security Deposit
-        ~ Etc
-
-Solutions:
-~ 360 Payment Solutions... Pay how you want... Online or in-store at select stores or Over the Phone
-~ Consolidated Payments with an easy online dashboard
-~ Consumer Credit and Landlord Working Capital
-~ Online dashboard for Tenant and for Landlord / Property Manager (user access profiles) (Integrated with Property Management Systems)
 
 <br><br>
 ## Websites Referenced
@@ -161,7 +159,8 @@ Solutions:
 [Letus](https://www.let.us/) 
 [Crunchbase - Rentmoola](https://www.crunchbase.com/organization/rentmoola)  
 [Letus, formally RentMoola, Embeds BlueSnap Payments to Facilitate Rental Transactions](https://www.prnewswire.com/news-releases/letus-formally-rentmoola-embeds-bluesnap-payments-to-facilitate-rental-transactions-301636195.html)  
-[Letus at the Building show - Dec. 2020](https://www.youtube.com/watch?v=A4SAKk3SEqI) 
+[RentMoola Closes $3.5M Preferred Share Offering](https://rentmoola.com/press/releases/rentmoola-closes-preferred-share-offering)  
+[Letus at the Building show - Dec. 2020](https://www.youtube.com/watch?v=A4SAKk3SEqI)  
 [Letus Linked In](https://www.linkedin.com/company/rentmoola/posts/?feedView=all) 
 [Letus Twitter](https://twitter.com/letus_payments) 
 [Letus by Rentmoola - Facebook](https://www.facebook.com/letuspayments/?mibextid=LQQJ4d)  
