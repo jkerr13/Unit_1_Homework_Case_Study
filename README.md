@@ -57,6 +57,7 @@ Major trends and some new and traditional competitors in the Paytech domain incl
     * Tink by VISA
     * Plaid  
 <br>
+
 * **Blockchain** - Blockchain verified data is secure which allows protection from fraudsters.  It also enables faster internations transactions.  Major Compeitors are:  
     * HIVE
     * Canaan Inc.
@@ -148,10 +149,10 @@ Their current communication between Landlords and Tenants is simply a Landlord u
 
 The Landlord / Tenant relationship is a very complicated and challengine one.  By expanding thier capabilities, they can make this simpler and a better experience for all.
 
+<br>
 
----------
-About Letus:
-Letus is the first fintech company to combine financial services and rental payments in one platform. Letus is disrupting the rental industry by empowering tenants and property managers or landlords to take control of their ﬁnances through a simple, integrated and secure solution that is powered by a diverse ecosystem of global partners.
+---------  
+**About Letus:**  Letus is the first fintech company to combine financial services and rental payments in one platform. Letus is disrupting the rental industry by empowering tenants and property managers or landlords to take control of their ﬁnances through a simple, integrated and secure solution that is powered by a diverse ecosystem of global partners.
 
 <br><br>
 ## Websites Referenced
