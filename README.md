@@ -4,7 +4,7 @@ University of Toronto FinTech Bootcamp
 FinTech Case Study  
 Challenge Assignment Week One  
 By: Jenn Kerr  
-<font size = 1>Please Note: Landlords = Landlords, Property Managers and Property Management Companies within this review </font>
+<font size = 0>Please Note: Landlords = Landlords, Property Managers and Property Management Companies within this review </font>
 
 --------------------------------------
 <br><br>
