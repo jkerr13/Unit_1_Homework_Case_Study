@@ -64,27 +64,32 @@ Major trends and some new and traditional competitors in the Paytech domain incl
     * Monex Group
     * Mojito  
 <br>
+
 * **Embedded Finance** - This enables non-financial organizations to leverage various digital technologies to offer financial solutions to their customers. Major Competitors are:
     * Credify
     * Stitch
     * DriveWealth
     * ApplePay  
 <br>
+
 * **Super Apps** - This area brings many products into one App or program.  You can message, schedule an appointment, place an order, shop and make payments, all in the same App! This area is very popular in Asia and the Middle East but has not yet taken hold in North America or Europe.  Major Competitors are:
     * AliPay
     * WeChat  
 <br>
+
 * **Voice Payments** - Think Siri or Alexa... Voice technologies are working towards making the customer experience completely hands-free while still maintaining security. Although this is not yet possible, Major Competitors that are on the verge of making this a reality are:
     * Siri
     * Alexa
     * Cortana  
 <br>
+
 * **Virtual Cards** - This is becoming one of the most safest ways to pay for goods and services.  Instead of providing a fixed 16-digit number and infomation of a physical bank card, this menthod provides a temporary 16-digit number.  It also provides an quick way to block the card without losing access to the physical card.
     * KOHO
     * Stack
     * Weathsimple
     * American Express Go
 <br><br>
+
 ## Results
 With the introduction of RentMoola, the rental landscape was significantly altered.  It allowed renters the ease of paying how they wanted and allowed them to easily access funds that would not have been easily or efficently accessed before.  The primany advantage to renters being allowed to pay by credit card directly is the removal of the high cash withdrawal fees that credit cards charge for a cash advance.  It also allowed landlords to accept credit card payments, without paying the credit card fees and therefore cutting into their already slim margins.  
 
