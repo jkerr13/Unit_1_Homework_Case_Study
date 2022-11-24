@@ -168,7 +168,7 @@ Letus is the first fintech company to combine financial services and rental paym
 [Globe and Mail - Startup helps tenants pay rent, condo fees on credit card](https://www.theglobeandmail.com/report-on-business/small-business/startups/startup-helps-tenants-pay-rent-condo-fees-on-credit-card/article14957856/)  
 [RentPayment](https://www.rentpayment.com/)  
 [ClickPay](https://www.clickpay.com/Home.aspx)  
-[Canadian Rentl Housing Index](https://rentalhousingindex.ca/en/#intro)  
+[Canadian Rental Housing Index](https://rentalhousingindex.ca/en/#intro)  
 [Stats Can](https://www150.statcan.gc.ca/n1/daily-quotidien/220921/dq220921b-eng.htm)   
 [Five trends to watch in the world of paytech](https://www.techradar.com/news/five-trends-to-watch-in-the-world-of-paytech)  
 [What is Paytech?](https://finxp.com/insights/what-is-paytech/)  
